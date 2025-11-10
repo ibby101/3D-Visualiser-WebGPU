@@ -22,7 +22,7 @@ It focuses on rendering high polygon meshes efficiently in the browser. The goal
 
 ### 2. Clone repository
 ```bash
-git clone https://github.com/ibby101/WebGPU_Practice.git
+git clone https://github.com/ibby101/3D-Visualiser-WebGPU-
 ```
 
 ---
