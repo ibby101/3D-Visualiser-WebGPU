@@ -75,7 +75,7 @@ fn fs_main(in: VertexOutput) -> @location(0) vec4<f32> {
 
     let texColor = textureSample(myTexture, mySampler, in.UV);
 
-    // phong lighting model
+    // lambertian diffuse model
 
     let ambientStrength = 0.5; // controls strength of ambient light
     let ambient = ambientStrength * light.color;
